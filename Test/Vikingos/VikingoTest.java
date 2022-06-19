@@ -61,6 +61,8 @@ class VikingoTest {
         boolean result = soldado.subirAExpedicion(soldado);
 
         assertEquals(true,result);
+
+        System.out.println("hola");
     }
 
 }
